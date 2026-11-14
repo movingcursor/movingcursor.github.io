@@ -1,0 +1,6 @@
+# GitHub Pages site config (https://dot0.one): Cayman theme + IBM Plex override, same look as egressor.org (personal-site reference removed 2026-11-14: no owner name in the public repo).
+title: movingcursor
+description: Open-source projects
+theme: jekyll-theme-cayman
+exclude:
+  - README.md
